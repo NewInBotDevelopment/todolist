@@ -1,0 +1,4 @@
+1|Complete Java project|High|Study|15-10-2026|Pending|Swing based To-Do app
+2|Prepare for viva|High|Study|16-10-2026|Pending|Revise OOP concepts
+3|Buy groceries|Low|Shopping|14-10-2026|Completed|Milk, bread, fruits
+4|Team meeting|Medium|Work|18-10-2026|Pending|Discuss project progress
